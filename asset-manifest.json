@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinitathakkar/NewsMonkey-React.git/static/css/main.f855e6bc.css",
+    "main.js": "/vinitathakkar/NewsMonkey-React.git/static/js/main.287101d6.js",
+    "static/js/787.d45a8ac3.chunk.js": "/vinitathakkar/NewsMonkey-React.git/static/js/787.d45a8ac3.chunk.js",
+    "index.html": "/vinitathakkar/NewsMonkey-React.git/index.html",
+    "main.f855e6bc.css.map": "/vinitathakkar/NewsMonkey-React.git/static/css/main.f855e6bc.css.map",
+    "main.287101d6.js.map": "/vinitathakkar/NewsMonkey-React.git/static/js/main.287101d6.js.map",
+    "787.d45a8ac3.chunk.js.map": "/vinitathakkar/NewsMonkey-React.git/static/js/787.d45a8ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.287101d6.js"
+  ]
+}
